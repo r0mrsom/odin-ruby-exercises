@@ -13,7 +13,7 @@ class ChangeInput
   end
 
   def inputPlacer
-    print charImputer + "'x Turn!"
+    print charImputer + "'s Turn!"
     puts
     print "Input number to place: "
 
