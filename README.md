@@ -15,5 +15,5 @@ These exercises were taken from [The Odin Project: Ruby](https://www.theodinproj
 [Hangman](https://github.com/r0mrsom/odin-ruby-exercises/tree/main/files-and-serialization/hangman)<br>
 
 # A Bit of Computer Science
-[Recursion: Fibonacci][https://github.com/r0mrsom/odin-ruby-exercises/blob/main/computer-science/recursion/fibonacci.rb]<br>
-[Recursion: Merge Sort][https://github.com/r0mrsom/odin-ruby-exercises/blob/main/computer-science/recursion/merge_sort.rb]<br>
+[Recursion: Fibonacci](https://github.com/r0mrsom/odin-ruby-exercises/blob/main/computer-science/recursion/fibonacci.rb)<br>
+[Recursion: Merge Sort](https://github.com/r0mrsom/odin-ruby-exercises/blob/main/computer-science/recursion/merge_sort.rb)<br>
