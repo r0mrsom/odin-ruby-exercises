@@ -36,16 +36,17 @@ class Menu
   end
 
   def check
-    if input.downcase == 'start'
+    selection = ['start', 'tutorial', 'quit']
+    if selection[0].start_with?(input.downcase)
       Gameplay.new.start
       returnHome
-    elsif input.downcase == 'tutorial'
+    elsif selection[1].start_with?(input.downcase)
       tutorial
       returnHome
-    elsif input.downcase == 'quit'
+    elsif selection[2].start_with?(input.downcase)
       endGame
     else
-      home
+      home      
     end
   end
 
