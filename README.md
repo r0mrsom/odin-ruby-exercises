@@ -28,3 +28,6 @@ These exercises were taken from [The Odin Project: Ruby](https://www.theodinproj
 [HashMap](https://github.com/r0mrsom/odin-ruby-exercises/tree/main/computer-science/HashMap)<br>
 [Binary Search Tree](https://github.com/r0mrsom/odin-ruby-exercises/tree/main/computer-science/binary-search-tree)<br>
 [Knight Travails](https://github.com/r0mrsom/odin-ruby-exercises/tree/main/computer-science/knights-travails)<br>
+
+# Conclusion
+[Chess](https://github.com/r0mrsom/odin-ruby-exercises/tree/main/conclusion/chess)<br
